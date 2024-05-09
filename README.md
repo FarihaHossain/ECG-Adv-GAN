@@ -28,7 +28,7 @@ Electrocardiogram (ECG) acquisition requires an automated system and analysis pi
 ### Visualize-Output:
 Each pair of row contains real and adversarial signal for Epoch 1,100 and 200 successively.The column consists of different ECG signals such as Normal (N), Atrial Premature (A), Premature Ventricular (V), and Fusion (F) beats, and for each graph, the X-axis signifies sample/time in range of [0,280] and Y-axis signifies amplitude of [0,1]. We can see that our ECG-adv-GAN synthesizes realistic-looking adversarial ECGs over time
 <div align="left">
-  <img src="Figure/FigS1.png" width="900"/>
+  <img src="Figure/FigS1.png" width="1000"/>
 </div>
 
 
