@@ -5,7 +5,7 @@
 # \[ICMLA 2021\] ECG-Adv-GAN: Detecting ECG AdversarialExamples with Conditional Generative Adversarial Networks
 
 
-Official PyTorch implementation of \[ICMLA 2021\] [**ECG-Adv-GAN: Detecting ECG AdversarialExamples with Conditional Generative Adversarial Networks**](https://arxiv.org/abs/2110.09983).
+Official implementation of \[ICMLA 2021\] [**ECG-Adv-GAN: Detecting ECG AdversarialExamples with Conditional Generative Adversarial Networks**](https://arxiv.org/abs/2110.09983).
 
 \[[Paper](https://arxiv.org/abs/2107.07677)\]\[[BibTex](#citing-ECG-Adv-GAN)\]
 
